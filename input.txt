@@ -1,0 +1,24 @@
+[
+{
+"Device ID": "12:23:F5:AA:02:01",
+"Voltage": 110,
+"Current": 2.3,
+"Frequency": 50.8,
+"VAR": 1.1,
+"Cos": 4,
+"VA": 5,
+"KWh": 1.5,
+"Time Stamp": "2016-05-23 14:23:56"
+},
+{
+"Device ID": "12:23:F5:AA:02:01",
+"Voltage": 110,
+"Current": 2.4,
+"Frequency": 50.6,
+"VAR": 1.1,
+"Cos": 4,
+"VA": 5,
+"KWh": 1.6,
+"Time Stamp": "2016-05-23 14:24:52"
+}
+]
