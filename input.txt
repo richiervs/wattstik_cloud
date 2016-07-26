@@ -1,0 +1,18 @@
+[ 
+{ 
+"deviceID": 2, 
+"[measure": "Current", 
+"low": 0, 
+"high": 6.5, 
+"notifyflag": "Y", 
+"emailflag]": "N" 
+}, 
+{ 
+"deviceID": 3, 
+"[measure": "Current", 
+"low": 0, 
+"high": 11, 
+"notifyflag": "Y", 
+"emailflag]": "N" 
+} 
+]
