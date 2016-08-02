@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
 {
 "Device ID": "12:23:F5:AA:02:01",
@@ -21,4 +22,23 @@
 "KWh": 1.6,
 "Time Stamp": "2016-05-23 14:24:52"
 }
+=======
+[ 
+{ 
+"deviceID": 2, 
+"[measure": "Current", 
+"low": 0, 
+"high": 6.5, 
+"notifyflag": "Y", 
+"emailflag]": "N" 
+}, 
+{ 
+"deviceID": 3, 
+"[measure": "Current", 
+"low": 0, 
+"high": 11, 
+"notifyflag": "Y", 
+"emailflag]": "N" 
+} 
+>>>>>>> origin/master
 ]
